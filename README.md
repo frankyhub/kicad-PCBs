@@ -5,7 +5,7 @@ Printed Circuit Boards - Vorlagen
 
 
 ## Stückliste Seegeist mit NE555
-- Einfache Lötübung
+- Einfache Lötübung mit 2 blinkenden LEDs, Blinkfrequenz einstellbar
 - 1 NE555
 - 2 BC337 NPN TO-92-3
 - 1 1N4148 D=1,6 L=4mm
@@ -25,7 +25,7 @@ Printed Circuit Boards - Vorlagen
 
 
 ## Stückliste Fledermaus
-- Einfache Lötübung 
+- Einfache Lötübung mit 2 Farbwechsel LEDs
 - 2 RGB Farbwechsel LEDs 5mm (auf der Vorderseite bestücken)
 - 1 Micro-Schalter (auf der Rückseite bestücken)
 - 1 CR2032 Batteriehalter (auf der Rückseite bestücken)
@@ -33,6 +33,7 @@ Printed Circuit Boards - Vorlagen
 
 ## Helloween-Hexe
 
+- kicad-Vorlage "Helloween-Hexe"
 - Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
 - Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
 
