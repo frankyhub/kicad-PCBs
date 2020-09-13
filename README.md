@@ -24,8 +24,6 @@ Lötübung mit NE555
 
 ## Helloween-Hexe
 
-Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
-
-kicad Download: https://kicad-pcb.org/download/
-
-kicad Doc: https://docs.kicad-pcb.org/
+- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
+- kicad Download: https://kicad-pcb.org/download/
+- kicad Doc: https://docs.kicad-pcb.org/
