@@ -5,9 +5,8 @@ Lötübung mit NE555
 
 ##Stückliste:
 
-1 NE555
-
-2 BC337 NPN TO-92-3
+- 1 NE555
+- 2 BC337 NPN TO-92-3
 
 1 1N4148 D=1,6 L=4mm
 
