@@ -28,11 +28,8 @@ Printed Circuit Boards - Vorlagen
 - Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
 - PCB-Vorlage
 
-## Fledermaus
-- Einfache Lötübung - Platine mit 2 RGB-LEDs, Schalter und CR2032 Knopfzelle
-
-### Stückliste Fledermaus
-
+## Stückliste Fledermaus
+- Einfache Lötübung 
 - 2 RGB Farbwechsel LEDs 5mm (auf der Vorderseite bestücken)
 - 1 Micro-Schalter (auf der Rückseite bestücken)
 - 1 CR2032 Batteriehalter (auf der Rückseite bestücken)
