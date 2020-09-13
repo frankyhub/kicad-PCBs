@@ -32,8 +32,8 @@ Printed Circuit Boards - Vorlagen
 - 1 CR2032 Knopfzelle (auf der Rückseite bestücken)
 
 ## Helloween-Hexe
-
 - kicad-Vorlage "Helloween-Hexe"
-- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
 - Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
+- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
+
 
