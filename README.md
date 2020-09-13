@@ -4,7 +4,7 @@ Printed Circuit Boards - Vorlagen
 - Docs kicad: https://docs.kicad-pcb.org/
 
 
-## Stückliste Seegeist mit NE555:
+## Stückliste Seegeist mit NE555
 
 - 1 NE555
 - 2 BC337 NPN TO-92-3
