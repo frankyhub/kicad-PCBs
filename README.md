@@ -30,7 +30,7 @@ Printed Circuit Boards - Vorlagen
 ## Kicad-Fledermaus
 - Einfache Lötübung - Platine mit 2 RGB-LEDs, Schalter und CR2032 Knopfzelle
 
-## Stückliste Fledermaus
+### Stückliste Fledermaus
 
 - 2 RGB Farbwechsel LEDs 5mm (auf der Vorderseite bestücken)
 - 1 Micro-Schalter (auf der Rückseite bestücken)
