@@ -3,7 +3,7 @@ Printed Circuit Boards - Vorlagen
 
 Lötübung mit NE555
 
-## Stückliste:
+## Stückliste Seegeist:
 
 - 1 NE555
 - 2 BC337 NPN TO-92-3
