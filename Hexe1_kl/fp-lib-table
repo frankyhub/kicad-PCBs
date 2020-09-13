@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Hexe3_kl")(type KiCad)(uri "$(KIPRJMOD)/Hexe3_kl.pretty")(options "")(descr ""))
+)
