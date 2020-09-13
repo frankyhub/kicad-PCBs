@@ -23,10 +23,6 @@ Printed Circuit Boards - Vorlagen
 - 1 Microschalter
 - 1 Platine
 
-## Helloween-Hexe
-
-- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
-- PCB-Vorlage
 
 ## Stückliste Fledermaus
 - Einfache Lötübung 
@@ -35,4 +31,8 @@ Printed Circuit Boards - Vorlagen
 - 1 CR2032 Batteriehalter (auf der Rückseite bestücken)
 - 1 CR2032 Knopfzelle (auf der Rückseite bestücken)
 
-- Die Platine kann mit dem Programm kicad bearbeitet werden.
+## Helloween-Hexe
+
+- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
+- Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
+
