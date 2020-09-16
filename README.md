@@ -35,6 +35,8 @@ Printed Circuit Boards - Vorlagen
 - 1 CR2032 Batteriehalter (auf der Rückseite bestücken)
 - 1 CR2032 Knopfzelle (auf der Rückseite bestücken)
 
+![image](https://github.com/frankyhub/kicad-PCBs/blob/master/Fledermaus3/Fledermaus%203.png)
+
 ## Helloween-Hexe
 - kicad-Vorlage "Helloween-Hexe"
 - Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
