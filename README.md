@@ -48,6 +48,7 @@ Printed Circuit Boards - Vorlagen
 - kicad-Vorlage "Kürbis"
 - Die kicad-Board-Datei dient als PCB-Vorlage "Kürbis".
 - Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
+
 ![image](https://github.com/frankyhub/kicad-PCBs/blob/master/K%C3%BCrbis2/K%C3%BCrbis2.png)
 
 
