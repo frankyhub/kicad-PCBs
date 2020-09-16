@@ -42,4 +42,6 @@ Printed Circuit Boards - Vorlagen
 - Die kicad-Board-Datei dient als PCB-Vorlage "Hexe".
 - Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
 
+![image](https://github.com/frankyhub/kicad-PCBs/blob/master/Hexe1_kl/Hexe.png)
+
 
