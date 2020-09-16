@@ -25,6 +25,8 @@ Printed Circuit Boards - Vorlagen
 - 1 Microschalter
 - 1 Platine
 
+![image](https://github.com/frankyhub/kicad-PCBs/blob/master/Seegeist_NE555/Seegeist-Bild.png)
+
 
 ## Stückliste Fledermaus
 - Einfache Lötübung mit 2 Farbwechsel LEDs
