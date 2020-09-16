@@ -44,4 +44,10 @@ Printed Circuit Boards - Vorlagen
 
 ![image](https://github.com/frankyhub/kicad-PCBs/blob/master/Hexe1_kl/Hexe.png)
 
+## Helloween-Kürbis
+- kicad-Vorlage "Kürbis"
+- Die kicad-Board-Datei dient als PCB-Vorlage "Kürbis".
+- Die kicad-Projekt Datei mit kicad öffnen und einen Schaltplan erstellen. 
+![image](https://github.com/frankyhub/kicad-PCBs/blob/master/K%C3%BCrbis2/K%C3%BCrbis2.png)
+
 
