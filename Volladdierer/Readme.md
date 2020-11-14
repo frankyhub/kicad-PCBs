@@ -1,10 +1,12 @@
 ## Volladdierer PCB
 
 ![image](https://github.com/frankyhub/png/blob/master/Volladdierer.png)
-#Platine Volladdierer
+
+Platine Volladdierer
 
 ![image](https://github.com/frankyhub/png/blob/master/Frontplatte.png)
-#Frontplatte Simulations-Box
+
+Frontplatte Simulations-Box
 
 
 Die Schaltung wurde mit der der LOGO! Software simuliert
