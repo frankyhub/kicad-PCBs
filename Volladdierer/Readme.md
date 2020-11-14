@@ -17,13 +17,6 @@
 <br>
 <br>
 
-<style>
-p {
- text-align:center
-}
-</style>
-
-
 
 Die Schaltung wurde mit der der LOGO! Software simuliert
 [Download Demo-SW](https://new.siemens.com/global/de/produkte/automatisierung/systeme/industrie/sps/logo/logo-software.html)
