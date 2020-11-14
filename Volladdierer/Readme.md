@@ -4,11 +4,17 @@
 
 ###                      Platine Volladdierer
 
+<br>
+<br>
+<br>
+
 ![image](https://github.com/frankyhub/png/blob/master/Frontplatte.png)
 
 ###                      Frontplatte Simulations-Box
 
 
+<br>
+<br>
 <br>
 
 
