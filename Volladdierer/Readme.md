@@ -2,7 +2,7 @@
 
 ![image](https://github.com/frankyhub/png/blob/master/Volladdierer.png)
 
-###       <center>               Platine Volladdierer
+<center>###                      Platine Volladdierer
 
 <br>
 <br>
