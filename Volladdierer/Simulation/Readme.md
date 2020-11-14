@@ -2,4 +2,4 @@
 
 Kostenlose Demo-Software
 
-[Link zur LOGO!-Software](https://new.siemens.com/global/de/produkte/automatisierung/systeme/industrie/sps/logo/logo-software.html))
+[Link zur LOGO!-Software](https://www.automation.siemens.com/salesmaterial-as/software/logo/webdemo/Windows/VM/win64/setup.exe)
