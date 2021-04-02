@@ -1,3 +1,3 @@
-## Dokumentation von kicad.org
+## kicad.org Dokumentation
 
 [Link](https://docs.kicad.org)
