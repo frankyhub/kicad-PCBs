@@ -1,4 +1,4 @@
-# kicad-PCBs
+# KiCad-PCBs
 ![kicad](https://github.com/frankyhub/png/blob/master/kicad.png)
 
 Printed Circuit Boards - Vorlagen
